@@ -1,4 +1,4 @@
-package chat.controller.dto;
+package chat.dto;
 
 public class Message
 {

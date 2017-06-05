@@ -1,4 +1,4 @@
-package chat.controller.dto;
+package chat.dto;
 
 import java.util.Date;
 
